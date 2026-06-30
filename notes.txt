@@ -1,1 +1,3 @@
 Learning Git 
+
+And adding feature settings to merge
