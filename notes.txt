@@ -1,3 +1,5 @@
 Learning Git 
 
 And adding feature settings to merge
+
+This is a new change in feature-settings.
